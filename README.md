@@ -6,4 +6,5 @@
 - Candela Taito  
 - Julieta Vazquez
 
-### Curso: 5B Informática
+### Curso: 
+- 5B Informática
