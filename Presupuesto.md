@@ -1,3 +1,8 @@
+# Boceto de la idea
+
+![Boceto](https://user-images.githubusercontent.com/100932165/194046057-5838292d-969e-4481-8021-664c5ebb504e.jpg)
+___  
+
 # Tareas 
 1. Investigación y redacción de preguntas y sus respuestas 
 2. Diseño de imagen y de la UI 
