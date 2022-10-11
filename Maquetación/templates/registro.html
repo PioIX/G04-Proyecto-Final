@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+    <head>
+      <meta charset="utf-8">
+      <title>Registrarse</title>
+    </head>
+
+    <body>
+        <h1>Registro</h1>
+        <form method='POST' action='/registrarse'>
+            <label>Nombre: </label>
+            <input type="text" id="nombre" name="nombre" required>
+            <br>
+            <label>Contraseña: </label>
+            <input type="pass" id="contraseña" name="contraseña" required> 
+            <br><br>
+            <input type="checkbox" name="check" value='1' required>
+            <label>Acepto los terminos y condiciones.</label>
+            <br><br>
+            <button type="submit">Registrar</button>
+            <br><br>
+          {{msg}}
+        </form>
+  </body>
+</html>

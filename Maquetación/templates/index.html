@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Cuestionario</title>
+</head>
+
+<body>
+  <div class="container"></div>
+  <header>
+    <div class="titulo"></div>
+    <h1>Cuestionario de cultura general</h1>
+  </header>
+
+  <main>
+    <form method="POST" action="/registroLogin">
+      <button><a href=" {{ url_for('registro') }} ">Registrarse</a></button>
+      <button><a href=" {{ url_for('login') }} ">Login</a></button>
+    </form>
+  </main>
+</body>
+</html>
