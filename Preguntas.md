@@ -81,18 +81,18 @@
       - Pink Floid () 
       - AC/DC () 
       - Metallica () 
-16. ¿Cuál fue el primer álbum de Taylor Swift?
+15. ¿Cuál fue el primer álbum de Taylor Swift?
       - Lover () 
       - Taylor Swift (Taylor’s version)  (*) 
       - Red () 
       - Evermore () 
 
-17.¿Cual es estás figuras públicas no es cantante?
+16.¿Cual es estás figuras públicas no es cantante?
       - Ángela Torres () 
       - Miguel Ángel Rodríguez (*) 
       - Natalia Oreiro () 
       - Lali Esposito () 
-18. ¿Cuál de estas canciones es de la banda músical no te va a gustar?
+17. ¿Cuál de estas canciones es de la banda músical no te va a gustar?
       - Ninguna de ellas () 
       - Sin pena ni gloria (*) 
       - Ambas () 
