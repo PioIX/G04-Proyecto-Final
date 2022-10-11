@@ -132,7 +132,136 @@
       - I kissed a Girl (*) 
       - Dark Horse () 
       - E.T. () 
-    
+
+### Cine:
+
+1. Según el dibujito ¿ Que animal era Dumbo?
+      - Una jirafa () 
+      - Un ratón  () 
+      - Cuervo () 
+      - Un elefante (*) 
+2. En Toy story 4 ¿Que es Forky?
+      - Un perro de juguete () 
+      - Un tenedor de plástico () 
+      - Una cuchara descartable (*) 
+      - Una papa () 
+3. ¿Cuántas temporadas tiene hasta ahora (2022) The Walking Dead?
+      - 15 () 
+      - 8 ()  
+      - 11 (*) 
+      - 9 () 
+4. ¿ Qué personaje muere en Grey ‘s Anatomy?
+      - Derek () 
+      - George () 
+      - Lexie () 
+      - Todos lo hacen (*) 
+5. ¿Cuántos hermanos había en la familia Bridgerton?
+      - Cinco () 
+      - Ocho (*) 
+      - Cuatro () 
+      - Siete () 
+6. En Sex Education ¿Quien abre la clínica de terapia sexual en la escuela?
+      - Otis () 
+      - Maeve  ()  
+      - Dra. Jean () 
+      - Otis y Maeve (*) 
+7. ¿Cuántos relatos se contaban en la película “Relatos Salvajes”?
+      - Uno () 
+      - Dos () 
+      - Cuatro () 
+      - Seis (*) 
+8. ¿Quién hace de Benjamin en el secreto de tus ojos?
+      - Guillermo Francella () 
+      - Pablo Rago () 
+      - Ricardo Darin (*) 
+      - José Luis Gioia () 
+9. ¿Cuál de estos actores no participó en la película “El Clan”?
+      - Franco Masini () 
+      - Stefania Koessl() 
+      - Fernando Miró () 
+      - Lorenzo Ferro (*) 
+10. ¿Quién fue el director de la película “El Ángel”?
+      - Luis Ortega (*) 
+      - Pablo Trapero () 
+      - Adrián Suar () 
+      - Damian Szifron () 
+11. ¿Cómo se llaman las protagonistas de la serie Gilmore Girls?
+      - Rory y Lorelai (*) 
+      - Emily y Lorelai () 
+      - Emily y Rory () 
+      - París y Rory () 
+12- ¿A qué personaje protagonizó la China Suárez en la telenovela de Argentina, Tierra de amor y venganza?
+      - Lucia () 
+      - Raquel (*) 
+      - Alicia () 
+      - Francesca () 
+13. ¿Cuál de estas telenovelas no es argentina?
+      - Argentina, Tierra de amor y venganza () 
+      - Solamente vos () 
+      - Esperanza mía () 
+      - El clo (*) 
+14. ¿Cual de estas series no es infantojuvenil?
+      - Floricienta () 
+      - Patito Feo () 
+      - La malparida (*) 
+      - Rebelde Way () 
+15. En la película “Chicas Pesadas” ¿Que personaje utiliza la palabra fetch?
+      - Regina George () 
+      - Cady Heron () 
+      - Gretchen Wieners (*) 
+      - Sharon Norbury () 
+16. ¿ Cuantos años tenia el nene de la película “Mi pobre angelito” cuando es olvidado en su casa?
+      - Diez () 
+      - Ocho (*) 
+      - Siete () 
+      - Nueve () 
+17. En la película “Matilda” ¿De que trabaja el padre?
+      - Vendedor de autos (*) 
+      - Arquitecto () 
+      - Vendedor de casas () 
+      - No trabajaba () 
+18. ¿ En qué película/serie aparece la frase “No es tan difícil hacer dinero cuando es solo hacer dinero lo que pretende?
+      - El robo del siglo () 
+      - Ciudadano kane (*) 
+      - La casa de papel () 
+      - En ninguna aparece esa frase () 
+19. ¿ Quién es este actor?
+
+![image](https://user-images.githubusercontent.com/100932704/195212094-22731b7f-f128-4e95-bbe9-259299a82f3d.png)
+
+      - Mark Wahlberg () 
+      - Dominic Holland () 
+      - Andrew Garfield () 
+      - Tom Holland (*) 
+20. ¿Quién fue el director de la Saga Star Wars?
+      - George Lucas (*) 
+      - Gareth Edwars () 
+      - J.K Rowling () 
+      - Ninguno de ellos () 
+21. ¿Cuántas películas tiene la saga Harry Potter?
+      - Diez () 
+      - Ocho (*) 
+      - Nueve () 
+      - Siete () 
+22. ¿Cómo se llaman las protagonistas de Pretty Little Liars?
+      - Aria, Hanna, Emily, Spencer y Alison (*) 
+      - Aria, Hanna, Emily y Spencer () 
+      - Ashley, Ella y Emily () 
+      - Emily, Mona y Spencer () 
+23. ¿Cuál de estos no interpretó al hombre araña?
+      - Nicolas Hammond () 
+      - Shinji Tōdō () 
+      - Reeve Carney () 
+      - Todos lo interpretaron (*) 
+24. ¿Cual es el nombre de esta película?
+
+![image](https://user-images.githubusercontent.com/100932704/195212537-7c93cb85-5bb4-4bd1-8117-bce9b9e4fec0.png)
+
+  - Buenos muchachos () 
+  - El padrino (*) 
+  - Sueño de fuga () 
+  - Tiempos violentos () 
+   
 <hr></hr>  
 <sup>Se indica con un * adentro de los paréntesis cuál es la correcta.</sup>
 
