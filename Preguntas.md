@@ -42,10 +42,10 @@
 
 ![image](https://user-images.githubusercontent.com/100932704/195141571-c9669287-160a-4010-a8db-7bacce179d4a.png)
 
-       - Andres Calamaro () 
-       - Luis Alberto Spinetta () 
-       - Gustavo Cerati () 
-       - Fito Paez (*) 
+        - Andres Calamaro () 
+        - Luis Alberto Spinetta () 
+        - Gustavo Cerati () 
+        - Fito Paez (*) 
 8. ¿Cómo se llama Bad Bunny?
 
       - Benito Antonio Martínez Ocasio (*) 
