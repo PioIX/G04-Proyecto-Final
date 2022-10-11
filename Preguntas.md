@@ -1,5 +1,4 @@
 # Preguntas 
-Se indica con un * adentro de los paréntesis cuál es la correcta 
 ### Musica:
 1. ¿Qué es lo que caracteriza a la Cantante Emilia Mernes? 
     - Tener muchos piercings () 
@@ -133,6 +132,9 @@ Se indica con un * adentro de los paréntesis cuál es la correcta
       - I kissed a Girl (*) 
       - Dark Horse () 
       - E.T. () 
+    
+<hr></hr>  
+<sup>Se indica con un * adentro de los paréntesis cuál es la correcta.</sup>
 
 
 
