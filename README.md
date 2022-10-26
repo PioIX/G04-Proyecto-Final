@@ -1,4 +1,4 @@
-# Proyecto Interdisciplinario Final Grupo N°04
+# Trabajo integrador interdisciplinario Grupo N°04
 
 ### Integrantes:  
 - Iara Mareco  
