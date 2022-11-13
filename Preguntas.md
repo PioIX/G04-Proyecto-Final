@@ -90,7 +90,7 @@
 14. ¿A qué grupo se lo conoce como “sus satánicas majestades”?
 
       - Rolling Stones (*) 
-      - Pink Floid () 
+      - Pink Floyd () 
       - AC/DC () 
       - Metallica () 
 15. ¿Cuál fue el primer álbum de Taylor Swift?
@@ -224,7 +224,7 @@
       - Emily y Lorelai () 
       - Emily y Rory () 
       - París y Rory () 
-12- ¿A qué personaje protagonizó la China Suárez en la telenovela de Argentina, Tierra de amor y venganza?
+12. ¿A qué personaje protagonizó la China Suárez en la telenovela de Argentina, Tierra de amor y venganza?
 
       - Lucia () 
       - Raquel (*) 
